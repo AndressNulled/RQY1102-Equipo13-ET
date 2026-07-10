@@ -1,6 +1,6 @@
 # RQY1102-Equipo13-ET
 
-# NOMBRE PROYECTO
+## NOMBRE PROYECTO
 
 *   **Gesco: El Mirador**
 
